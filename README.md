@@ -4,5 +4,5 @@
 内带了217640个有币btc地址，可以自行添加
 联系我们：微信 jianke9982
 
-![avatar]([btc1.git](https://github.com/ninki51/btcPrivateKey/blob/main/btc1.gif))
+![avatar](https://github.com/ninki51/btcPrivateKey/blob/main/btc1.gif)
 ![avatar](https://github.com/ninki51/btcPrivateKey/blob/main/btc2.gif)
