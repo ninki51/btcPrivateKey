@@ -3,6 +3,8 @@ Shuda timetabling software supports automatic class timetabling for elementary s
 
 contact:ninki2022@tutanota.com
 telegram: @ninki51
+Free Trial Download URL
+https://tbapp.top/index_en.html
 
 ![avatar](https://tbapp.top/img/tb2.png)
 ![avatar](https://tbapp.top/img/tb1.png)
