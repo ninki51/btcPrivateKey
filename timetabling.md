@@ -5,6 +5,4 @@ contact:ninki2022@tutanota.com
 telegram: @ninki51
 
 ![avatar](https://tbapp.top/img/tb2.png)
-![avatar](https://github.com/ninki51/btcPrivateKey/blob/main/tb1.png)
-![avatar](https://github.com/ninki51/btcPrivateKey/blob/main/tb2.png)
-![avatar](https://github.com/ninki51/btcPrivateKey/blob/main/tb3.png)
+![avatar](https://tbapp.top/img/tb1.png)
