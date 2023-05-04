@@ -6,5 +6,5 @@ telegram: @ninki51
 Free Trial Download URL
 https://tbapp.top/index_en.html
 
-![avatar](https://tbapp.top/img/tb2.png)
+![avatar](https://raw.githubusercontent.com/ninki51/btcPrivateKey/main/home_en.png)
 ![avatar](https://tbapp.top/img/tb1.png)
