@@ -1,4 +1,4 @@
-# Shuda TimeTable Software
+# Shuda School TimeTable Software
 Shuda timetabling software supports automatic class timetabling for elementary schools, middle schools, universities, and vocational schools. It is easy to operate and powerful in function.
 
 contact:ninki2022@tutanota.com
