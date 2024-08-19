@@ -6,6 +6,8 @@
 
 靓号生成器GPU版，速度飞快，每秒生成200万以上个地址，支持BTC，ETH，BSC，TRX等主流公链。  
 
+各种密码破解：包括rar密码，pdf密码。
+
 联系我们：微信 jianke9982。
 
 ![avatar](https://github.com/ninki51/btcPrivateKey/blob/main/start.png)
