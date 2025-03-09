@@ -4,7 +4,7 @@
 速度每秒生成200万-2亿个私钥。
 内带了485万个有币btc地址，可以自行添加。 
 
-比特币私钥破解挑战，2015年有人在十六进制私钥 40000000000000000:7ffffffffffffffff范围内的1BY8GQbnueYofwSuFAT3USAhGjPrkxDdW9地址中投入了6.7个BTC，目的是为了测试比特币的破解难度，这个地址已经于2025年2月21日被破解。下一个挑战是1MVDYgVaSN6iKKEsbzRUAYFrYJadLYZvvZ 里面有6.8个BTC,想参加挑战的朋友可以联系我的微信jianke9982，使用我的GPU版碰撞工具。
+比特币私钥破解挑战，2015年有人在十六进制私钥 从40000000000000000 到 7ffffffffffffffff 范围内的btc:1BY8GQbnueYofwSuFAT3USAhGjPrkxDdW9 地址中投入了6.7个BTC，目的是为了测试比特币的破解难度，这个地址已经于2025年2月21日被破解。下一个挑战是btc:1MVDYgVaSN6iKKEsbzRUAYFrYJadLYZvvZ 里面有6.8个BTC,想参加挑战的朋友可以联系我的微信jianke9982，使用我的GPU版碰撞工具。
 
 靓号生成器GPU版，速度飞快，每秒生成200万以上个地址，支持BTC，ETH，BSC，TRX等主流公链。  
 
