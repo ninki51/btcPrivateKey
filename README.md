@@ -4,6 +4,9 @@
 支持BTC和ETH。
 ![avatar](https://github.com/ninki51/btcPrivateKey/blob/main/btc888.png)
 
+BTC解谜挑战MacOS版
+![avatar](https://github.com/ninki51/btcPrivateKey/blob/main/mac_bsgs.png)
+
 碰撞私钥算法：碰撞比特币私钥，破解比特币私钥，破解以太坊私钥的程序
 破解比特币私钥和破解以太坊私钥原理：随机生成私钥，然后推导出公钥和地址，然后和丢失私钥的地址比对。
 
