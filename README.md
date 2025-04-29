@@ -1,6 +1,6 @@
 # btcPrivateKey
 比特币私钥破解挑战，2015年有人在十六进制私钥 从40000000000000000 到 7ffffffffffffffff 范围内的btc:1BY8GQbnueYofwSuFAT3USAhGjPrkxDdW9 地址中投入了6.7个BTC，目的是为了测试比特币的破解难度，这个地址已经于2025年2月21日被破解。下一个挑战是btc:1MVDYgVaSN6iKKEsbzRUAYFrYJadLYZvvZ 里面有6.8个BTC,想参加挑战的朋友可以联系我的微信jianke9982，使用我的GPU版碰撞工具。
-用CPU的速度每秒生成1000万个私钥，用英伟达4060速度是每秒12亿，4080速度是每秒21亿。
+用CPU的速度每秒生成1000万个私钥，用英伟达4060速度是每秒12亿，4070速度是每秒24亿。
 支持BTC和ETH。
 ![avatar](https://github.com/ninki51/btcPrivateKey/blob/main/btc888.png)
 
