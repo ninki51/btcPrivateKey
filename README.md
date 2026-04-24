@@ -15,7 +15,7 @@ BTC解谜挑战MacOS版
 
 Bitcoin core钱包密码找回，比特币核心钱包密码破解，各种密码破解：包括rar密码，pdf密码。
 
-联系我们：微信 jianke9982。
+联系我们：qq 2556792125 telegram:@ninki51。
 
 ![avatar](https://github.com/ninki51/btcPrivateKey/blob/main/start.png)
 ![avatar](https://github.com/ninki51/btcPrivateKey/blob/main/btcGui3.gif)
